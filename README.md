@@ -1,5 +1,5 @@
 ### Hello there!
-[My image](https://raw.githubusercontent.com/CoopJax/CoopJax/master/wjegqwje.png)
+
 
 - 🔭 I'm working on cool stuff! Go to my repositories to see everything i've been working on over the years!
 - 🌱 Currently learning JavaScript and getting better at C#
