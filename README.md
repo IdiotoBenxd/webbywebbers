@@ -6,4 +6,4 @@
 - I have made a couple of games that you should try! (I have some cool other stuff too B))
 - Thanks for visiting my profile!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CoopJax)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CoopJax)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=gradient)
