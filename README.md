@@ -2,7 +2,7 @@
 - [Discord](https://discord.gg/s434mDx)
 - [My Games](https://cooper-s-games.github.io/)
 - [Wakatime](https://wakatime.com/@webby)
-- Yo! im cooper but everyone calls me web or webby. I do programming alot and play too many video games.
+- Yo! im cooper but everyone calls me web or webby. I do programming a lot and play too many video games. Fan of Discord bots and [Rich Presence](https://github.com/PreMiD/Presences) and Unity. Big music man B) because who doesn't like music.
 
 [![Coop's github stats](https://github-readme-stats.vercel.app/api?username=CoopJax&show_icons=true&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoopJax&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
