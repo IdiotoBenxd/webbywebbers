@@ -5,7 +5,16 @@
 - [My Games](https://cooper-s-games.github.io/)
 - [Wakatime](https://wakatime.com/@webby)
 
-[![Coop's github stats](https://github-readme-stats.vercel.app/api?username=CoopJax&show_icons=true&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoopJax&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=webby&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CoopJax&show_icons=true&theme=nord" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoopJax&theme=nord" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=webby&theme=nord" />
+</a>
+
+
 # Stay frosty, yeah?
