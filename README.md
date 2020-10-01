@@ -1,3 +1,5 @@
+## Hello, im Cooper but everyone calls me web or webby. I make programs and Unity games.
+
 - [Twitch](https://www.twitch.tv/webbby_)
 - [Discord](https://discord.gg/s434mDx)
 - [My Games](https://cooper-s-games.github.io/)
