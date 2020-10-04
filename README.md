@@ -12,7 +12,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoopJax&theme=nord" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://wakatime.com/@webby">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=webby&theme=nord" />
 </a>
 
