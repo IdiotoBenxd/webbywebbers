@@ -22,6 +22,7 @@
 <img src="https://raw.githubusercontent.com/CoopJax/CoopJax/5f58571aad35fe8a0ef48fc4ac11f7fb5c4910ed/python.svg" alt="Python" style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/CoopJax/CoopJax/5f58571aad35fe8a0ef48fc4ac11f7fb5c4910ed/csharp.svg" alt="CSharp" style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/CoopJax/CoopJax/5f58571aad35fe8a0ef48fc4ac11f7fb5c4910ed/unity.svg" alt="Unity" style="max-width:100%;">
+<img alt="JavaScript" src="https://camo.githubusercontent.com/75b0284fc25abf921ffc6845c4826c4ea40f310e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6564623230303f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&amp;logo=javascript&amp;logoColor=white" style="max-width:100%;">
 
 
 # Stay frosty, yeah?
