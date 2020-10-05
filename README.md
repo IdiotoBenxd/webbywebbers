@@ -4,7 +4,7 @@
 - [Discord](https://discord.gg/s434mDx)
 - [My Games](https://cooper-s-games.github.io/)
 - [Wakatime](https://wakatime.com/@webby)
-- [Email Me](contactmygames@protonmail.com)
+- [Email Me](mailto:contactmygames@protonmail.com)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
