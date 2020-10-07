@@ -2,7 +2,7 @@
 ### Just some dude who likes to code
 - [Twitch](https://www.twitch.tv/webbby_)
 - [Discord](https://discord.gg/s434mDx)
-- web#0385
+- web#0385 on discord.
 - [My Games](https://cooper-s-games.github.io/)
 - [Wakatime](https://wakatime.com/@webby)
 - [Email Me](mailto:contactmygames@protonmail.com)
